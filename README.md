@@ -205,5 +205,3 @@ DevOps | Cloud | Docker | AWS
 
 ---
 
-Just tell me what level you want 🚀
-
